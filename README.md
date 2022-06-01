@@ -74,7 +74,7 @@ This applications uses JSON Web Token (JWT) to handle authentication. The token 
 # Google authentication
  
 Add clientId and clientsecert in  "Nest-Google-auth\src\google.strategy.ts"
-
+Note: Do necessary change as shown in screenshot
 ----------
 
 ## License
